@@ -1,8 +1,15 @@
 # Site settings
-title: "Typewriter"
-description: "So I was feeling nostalgic."
+title: "Post Mortem"
+description: "Poemas dessa vida e da outra."
+poem: "Amor e dor. Alegria e morte.
+As palavras por vezes se confundem.
+As palavras por vezes nos confundem.
+Confundimos as palavras.
+Separamos as emoções.
+Juntamos tudo novamente.
+Eis o homem."
 baseurl: ""
-url: "http://alixedi.github.io"
+url: "http://candinhojr.github.io"
 
 # Build settings
 markdown: kramdown
@@ -12,11 +19,11 @@ paginate: 3
 
 # Links
 links:
-  - title: "abt"
+  - title: "abt us"
     url: /about
-  - title: "twt"
-    url: http://twitter.com/alixedi
-  - title: "git"
-    url: http://github.com/alixedi
+  #- title: "twt"
+  #  url: http://twitter.com/alixedi
+  #- title: "git"
+  #  url: http://github.com/candinhojr
   - title: "rss"
     url: /feed.xml
