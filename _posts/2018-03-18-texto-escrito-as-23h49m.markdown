@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Texto escrito às 23:49"
-date:   2018-02-02 14:52:38
-categories: jekyll update
+date:   2018-03-18 14:52:38
+categories: poemas
 ---
 
 São todos estranhos. Você, seu vizinho, sua mãe, seus irmãos. E eu, obviamente.
