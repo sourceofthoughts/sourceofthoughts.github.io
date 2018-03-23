@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Este projeto está em desenvolvimento, após muito tempo no desejo de ser concretizado. Ele contém um pouco de nós, seja nas palavras ou na forma como está sendo apresentado.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+O projeto source of thought tem dois idealizadores, [Andersson Duarte](https://www.facebook.com/anderssonphd) e [Candinho Jr](http://candinhojr.pe.hu/teste/).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Sejam bem vindos e aproveitem o passeio ;)
 
 Tema <a href="https://github.com/alixedi/typewriter">Typewriter</a> by <a href="http://twitter.com/alixedi">alixedi</a>
