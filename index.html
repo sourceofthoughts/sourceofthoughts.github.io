@@ -1,6 +1,6 @@
 ---
 layout: default
-title: source of thought
+title: Source of thought
 ---
 
 <div class="home">
@@ -26,13 +26,13 @@ title: source of thought
         <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">prv</a>
       {% endif %}
     {% else %}
-      <span class="page-link">prv</span>
+      <span class="page-link" alt="previous">prv</span>
     {% endif %}
 
     {% if paginator.next_page %}
       <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">nxt</a>
     {% else %}
-      <span class="page-link">nxt</span>
+      <span class="page-link" alt="next">nxt</span>
     {% endif %}
   </div>
 

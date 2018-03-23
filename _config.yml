@@ -1,15 +1,15 @@
 # Site settings
-title: "Post Mortem"
+title: "Source of Thoughts"
 description: "Poemas dessa vida e da outra."
-poem: "Amor e dor. Alegria e morte.
-As palavras por vezes se confundem.
-As palavras por vezes nos confundem.
-Confundimos as palavras.
-Separamos as emoções.
-Juntamos tudo novamente.
-Eis o homem."
+#poem: "Amor e dor. Alegria e morte.
+#As palavras por vezes se confundem.
+#As palavras por vezes nos confundem.
+#Confundimos as palavras.
+#Separamos as emoções.
+#Juntamos tudo novamente.
+#Eis o homem."
 baseurl: ""
-url: "http://candinhojr.github.io"
+url: "http://sourceofthoughts.github.io"
 
 # Build settings
 markdown: kramdown
