@@ -4,6 +4,8 @@
     </h1>
     <p class="sub">
         {{ site.description }} <br />
+    </p>
+    <p class="sub">
         {{ site.poem }}
     </p>
 
@@ -11,7 +13,7 @@
         <ul class="navlist">
             {% for link in site.links %}
             <li>
-                <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+                <a class="page-link" href="{{ link.url | prepend: site.baseurl }}" rel="noopener noreferrer" target="_blank">{{ link.title }}</a>
             </li>
             {% endfor %}
         </ul>
