@@ -10,4 +10,5 @@ O projeto source of thought tem dois idealizadores, [Andersson Duarte](https://w
 
 Sejam bem vindos e aproveitem o passeio ;)
 
-Tema <a href="https://github.com/alixedi/typewriter">Typewriter</a> by <a href="http://twitter.com/alixedi">alixedi</a>
+Tema <a href="https://github.com/alixedi/typewriter" rel="noopener noreferrer" target="_blank">Typewriter</a>
+ by <a href="http://twitter.com/alixedi" rel="noopener noreferrer" target="_blank">alixedi</a>
